@@ -1,0 +1,23 @@
+{
+  "name": "gulp-for-designers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohaglooko/Gulp-For-Designers.git"
+  },
+  "author": "yohannes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yohaglooko/Gulp-For-Designers/issues"
+  },
+  "homepage": "https://github.com/yohaglooko/Gulp-For-Designers#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0"
+  }
+}
